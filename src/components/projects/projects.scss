@@ -1,0 +1,25 @@
+.projects-container{
+    height: 90vh;
+width:100%;
+    background-color:  rgb(222, 245, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    padding: 20px;
+   
+ 
+}
+
+@media only screen and (max-width: 500px) {
+ 
+    .projects-container {
+       height: 130vh;
+    }
+   
+   
+}
+
+  
+   
+   

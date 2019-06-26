@@ -1,0 +1,44 @@
+// @import './components/Navbar/Navbar.scss';
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #616161;
+    
+}
+
+
+.inner-container {
+    width: 80%;
+    margin: 0 auto;
+ 
+
+}
+.section-header{
+    // margin: 50px 0px;
+    text-align: center
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+
+
+
+
+
+  
+ 
+
+
